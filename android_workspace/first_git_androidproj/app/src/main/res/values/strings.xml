@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">first_git_androidproj</string>
+    <string name="hello_world">Hello world! Hello git! 你好 天朝!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
